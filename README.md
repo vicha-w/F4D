@@ -1,5 +1,9 @@
 # Fluka for Docker
 
+**This repo is no longer active. Fluka is now updated with Python 3, so distros with Python 2 is no longer needed for Fluka to work. See https://github.com/flukadocker/F4D/pull/4#issuecomment-1475968541 for more info.**
+
+**If you would like to install Fluka via F4D, please refer to installation instructions at https://github.com/flukadocker/F4D/.**
+
 Original scripts by V. Boccone, A. Fontana, D. Horváth
 
 These scripts allow to install and run Fluka (provided by www.fluka.org) and Flair2 inside a Docker container in any OS where Docker can be installed. The idea is derived by the scripts developed and maintained by V. Boccone at [https://github.com/drbokko/fedora_27-fluka](https://github.com/drbokko/fedora_27-fluka).
